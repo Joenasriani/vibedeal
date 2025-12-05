@@ -1,0 +1,7 @@
+{
+  "name": "VibeDeal Discovery Engine",
+  "description": "A precise, delivery-aware deal discovery engine that searches sellers, verifies offers, and returns structured comparison data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
